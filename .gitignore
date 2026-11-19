@@ -1,0 +1,6 @@
+#ignore exe
+*.exe
+#忽略中间文件
+*.o
+*obj
+*.out
